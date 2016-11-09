@@ -750,7 +750,7 @@ p.lead
 }
 .service-img img {
     display: block;
-    max-width: 450px;
+    max-width: 300px;
     float: right;           
 }
 .service-text {

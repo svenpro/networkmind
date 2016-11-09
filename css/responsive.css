@@ -23,3 +23,22 @@ VERSION : 1.1
 /*......................................................
 	MOBILE LAYOUT
 ........................................................*/
+@media only screen and (max-width: 768px){
+    .site-footer h3,
+    .site-footer li,
+    .site-footer p {
+        text-align: center !important;
+    }
+    .site-footer .social {
+		max-width: 160px;
+		margin: 0 auto;
+    }
+    .services-wrapper .service-img, 
+    .services-wrapper .service-text {
+    	width: 100%;
+    }
+    .subscr-form {
+    	padding: 0 30px;
+    }
+    
+}
